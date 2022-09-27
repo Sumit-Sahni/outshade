@@ -12,10 +12,10 @@ function App() {
        <div>
           <Hero/>
           <StoryOfTutor/>
-          {/* <Trained/>
+          <Trained/>
           <WhyTutorMaster/>
           <StayConnected/>
-          <TrainingVideo/>
+          {/* <TrainingVideo/>
           <WhoWillTrainYou/>
           <Footer/> */}
        </div>
