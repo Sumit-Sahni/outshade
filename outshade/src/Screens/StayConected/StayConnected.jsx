@@ -13,7 +13,7 @@ const ArrowUp = styled.div`
 
  const StayConnected = () => {
   return (
-    <section className='h-screen lg:h-[70vh]'>
+    <section className='h-[90vh] lg:h-[70vh] outline'>
        <div className='grid justify-center items-center mb-12 my-12'>
             <div>
                <h1 className='text-2xl md:text-4xl text-blue-500 font-semibold mb-4'>Stay Connected with us</h1>
