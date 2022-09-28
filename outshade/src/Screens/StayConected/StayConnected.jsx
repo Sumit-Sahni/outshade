@@ -13,7 +13,7 @@ const ArrowUp = styled.div`
 
  const StayConnected = () => {
   return (
-    <section className='h-[90vh]'>
+    <section className='h-[100vh] md:h-[85vh] lg:h-[70vh] '>
        <div className='grid justify-center items-center mb-12 my-12'>
             <div>
                <h1 className='text-2xl md:text-4xl text-blue-500 font-semibold mb-4'>Stay Connected with us</h1>
@@ -49,7 +49,7 @@ const ArrowUp = styled.div`
 
                     <div className=' flex items-center justify-between '>
                       <h1></h1>
-                      <h1 className='mx-9'>view all</h1>
+                      <h1 className='mx-9 font-light'>view all</h1>
                     </div>
 
               </div>
@@ -61,8 +61,39 @@ const ArrowUp = styled.div`
         <div className=' lg:w-5/6 col-span-2 flex flex-col justify-center'>
                <div>
                 <div className='h-5'></div>
-                <div className='w-full lg:w-3/4 h-80  lg:mx-8 ' style={{"backgroundColor": "#f3f3f3"}}>
+                <div className='w-full lg:w-3/4 lg:h-[34vh] px-2 py-4 sm:p-12 lg:mx-8 flex lg:flex-col justify-evenly'  style={{"backgroundColor": "#f3f3f3"}}>
+                <div className='flex flex-col lg:flex-row justify-evenly items-stretch '>
+                            <div>
+                               <img src={sumit} alt="sumit" className='w-9 h-9 rounded-full  mb-5 '/>
+                            </div>
+                              
+                            <div>
+                              <h1 className='font-semibold'>James</h1>
+                              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui offcia</p>
+                            </div>
+                              
+                            <div className='self-start font-light py-4 '>
+                              <p>3min ago</p>
+                            </div>        
+                     </div>
 
+                     <div>
+
+                     <div className='flex flex-col lg:flex-row justify-evenly items-stretch '>
+                            <div>
+                               <img src={sumit} alt="sumit" className='w-9 h-9 rounded-full  mb-5 '/>
+                            </div>
+                              
+                            <div>
+                              <h1 className='font-semibold'>James</h1>
+                              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui offcia</p>
+                            </div>
+                              
+                            <div className='self-start font-light py-4 '>
+                              <p>3min ago</p>
+                            </div>        
+                     </div>
+                     </div>
                  </div>
                </div>
         </div>

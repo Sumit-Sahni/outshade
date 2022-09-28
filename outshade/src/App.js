@@ -15,9 +15,9 @@ function App() {
           <Trained/>
           <WhyTutorMaster/>
           <StayConnected/>
-          {/* <TrainingVideo/>
+          <TrainingVideo/>
           <WhoWillTrainYou/>
-          <Footer/> */}
+          {/* <Footer/> */}
        </div>
   );
 }
