@@ -13,7 +13,7 @@ const ArrowUp = styled.div`
 
  const StayConnected = () => {
   return (
-    <section className='h-[90vh] lg:h-[70vh] outline'>
+    <section className='h-screen md:h-[90vh] lg:h-[70vh] '>
        <div className='grid justify-center items-center mb-12 my-12'>
             <div>
                <h1 className='text-2xl md:text-4xl text-blue-500 font-semibold mb-4'>Stay Connected with us</h1>
@@ -21,7 +21,7 @@ const ArrowUp = styled.div`
             </div>
        </div>
 
-      <div className='flex flex-col lg:flex-row h-96'>
+      <div className='flex flex-col lg:flex-row h-96 '>
         <div className='w-full lg:w-2/5 flex flex-col justify-center lg:items-end '>
           <div>
                <ArrowUp/>
@@ -58,7 +58,7 @@ const ArrowUp = styled.div`
              
         </div>
          
-        <div className=' lg:w-5/6 col-span-2 flex flex-col justify-center'>
+        <div className=' lg:w-5/6 col-span-2 flex flex-col justify-center  h-auto'>
                <div>
                 <div className='h-5'></div>
                 <div className='w-full lg:w-3/4 lg:h-[34vh] px-2 py-4 sm:p-12 lg:mx-8 flex lg:flex-col justify-evenly'  style={{"backgroundColor": "#f3f3f3"}}>

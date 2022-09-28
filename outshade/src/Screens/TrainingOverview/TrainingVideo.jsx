@@ -3,7 +3,7 @@ import ReactPlayer from 'react-player';
 
 const TrainingVideo = () => {
   return (
-    <section className=' h-full lg:h-[70vh] '>
+    <section className=' lg:h-[70vh] '>
        <div className='grid justify-center items-center mb-12 lg:mb-10'>
              <div>
                 <h1 className='text-2xl md:text-4xl text-blue-500 font-semibold mb-4'>Training Overview</h1>
