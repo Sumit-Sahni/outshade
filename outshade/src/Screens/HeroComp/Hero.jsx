@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <>
      <NavbarComp/>
-    <section className='bg-blue-500 h-[75vh] flex items-center justify-center'>
+    <section className='bg-blue-500 h-[60vh] lg:h-[75vh] flex items-center justify-center'>
   
         <div className='font-pop p-12 text-white'>
             <h1 className='text-center text-3xl md:text-5xl lg:text-6xl '>Grow your mind and better<br/> opportunities yoy will find</h1>

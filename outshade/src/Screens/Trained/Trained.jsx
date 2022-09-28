@@ -17,7 +17,7 @@ import { BiBlanket } from 'react-icons/bi'
         <div className='grid gap-y-12 md:grid-cols-2 lg:grid-cols-3 sm:justify-center items-center justify-center  mb-12'>
              <div className='w-96 lg:w-full  flex items-center justify-center '> 
                   <div className='w-2/3 h-64  bg-blue-500 flex flex-col justify-center rounded-2xl  relative'>
-                  <div className='absolute top-[-32px] left-[-36px]  w-24 h-24 rounded-full flex items-center justify-center bg-blue-500'>
+                  <div className='absolute top-[-40px] left-[-42px]  w-24 h-24 rounded-full flex items-center justify-center bg-blue-500'>
                      <GiWorld size={60} style={{"color":"white"}}/>
                   </div>
                     <div className='sm:w-full flex justify-center h-48'>
@@ -32,7 +32,7 @@ import { BiBlanket } from 'react-icons/bi'
 
              <div className='w-96 lg:w-full flex items-center justify-center '>
              <div className='w-2/3 h-64  bg-blue-500 flex flex-col justify-center rounded-2xl  relative'>
-                  <div className='absolute top-[-32px] left-[-36px]  w-24 h-24 rounded-full flex items-center justify-center bg-blue-500'>
+                  <div className='absolute top-[-40px] left-[-42px]  w-24 h-24 rounded-full flex items-center justify-center bg-blue-500'>
                      <GoGift size={60} style={{"color":"white"}}/>
                   </div>
                     <div className='sm:w-full flex justify-center h-48'>
@@ -47,7 +47,7 @@ import { BiBlanket } from 'react-icons/bi'
 
              <div className='w-96 lg:w-full flex items-center justify-center '> 
              <div className='w-2/3 h-64  bg-blue-500 flex flex-col justify-center rounded-2xl  relative'>
-                  <div className='absolute top-[-32px] left-[-36px]  w-24 h-24 rounded-full flex items-center justify-center bg-blue-500'>
+                  <div className='absolute top-[-40px] left-[-42px]  w-24 h-24 rounded-full flex items-center justify-center bg-blue-500'>
                      <BiBlanket size={60} style={{"color":"white"}}/>
                   </div>
                     <div className='sm:w-full flex justify-center h-48'>
