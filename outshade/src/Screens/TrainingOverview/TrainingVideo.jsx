@@ -14,7 +14,7 @@ const TrainingVideo = () => {
         <div className='grid grid-cols-1 items-center'>
             <div  className="w-[95%] h-48  md:w-10/12 md:h-96 lg:w-1/2 lg:h-96 mx-auto">
               <ReactPlayer
-              url={"https://www.youtube.com/watch?v=mNEUkkoUoIA&list=RDmNEUkkoUoIA&start_radio=1"}
+              url={"https://www.youtube.com/watch?v=nP3A5Y9Yais"}
                width="100%"
                height="100%"
                controls={true}
