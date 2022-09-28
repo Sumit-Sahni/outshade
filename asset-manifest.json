@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/outshade/static/css/main.65d782cc.css",
-    "main.js": "/outshade/static/js/main.bf861582.js",
+    "main.css": "/outshade/static/css/main.8a11eca1.css",
+    "main.js": "/outshade/static/js/main.4705722d.js",
     "static/js/787.80ac2232.chunk.js": "/outshade/static/js/787.80ac2232.chunk.js",
     "static/media/sumit.png": "/outshade/static/media/sumit.c25738e477ead2fef3f2.png",
     "static/media/outshade.jpg": "/outshade/static/media/outshade.035d8b59108d0153c950.jpg",
     "static/media/outshade2.jpg": "/outshade/static/media/outshade2.2ac18ec94aab0a23ac1f.jpg",
     "index.html": "/outshade/index.html",
-    "main.65d782cc.css.map": "/outshade/static/css/main.65d782cc.css.map",
-    "main.bf861582.js.map": "/outshade/static/js/main.bf861582.js.map",
+    "main.8a11eca1.css.map": "/outshade/static/css/main.8a11eca1.css.map",
+    "main.4705722d.js.map": "/outshade/static/js/main.4705722d.js.map",
     "787.80ac2232.chunk.js.map": "/outshade/static/js/787.80ac2232.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.65d782cc.css",
-    "static/js/main.bf861582.js"
+    "static/css/main.8a11eca1.css",
+    "static/js/main.4705722d.js"
   ]
 }
