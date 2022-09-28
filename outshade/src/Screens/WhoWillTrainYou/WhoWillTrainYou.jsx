@@ -4,7 +4,7 @@ import sumit from  "../Photos/outshade2.jpg"
 
 const WhoWillTrainYou = () => {
   return (
-    <section className=' h-full lg:h-[70vh] my-12 py-12 '>
+    <section className='h-full lg:h-[80vh] my-12 py-12  mb-12'>
     <div className='grid justify-center items-center mb-12 lg:mb-10'>
           <div>
              <h1 className='text-2xl md:text-4xl text-blue-500 font-semibold mb-4'>Who will train you</h1>

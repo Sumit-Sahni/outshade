@@ -3,3 +3,7 @@
 @tailwind utilities;
 
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&display=swap');
+
+li{
+    @apply px-4
+}

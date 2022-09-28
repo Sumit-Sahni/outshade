@@ -6,6 +6,7 @@ import StayConnected from "./Screens/StayConected/StayConnected"
 import TrainingVideo from "./Screens/TrainingOverview/TrainingVideo"
 import WhoWillTrainYou from "./Screens/WhoWillTrainYou/WhoWillTrainYou"
 import Footer from "./Screens/Footer/Footer"
+import BelowFooter from "./Screens/BelowFooter/BelowFooter"
 
 function App() {
   return (
@@ -17,7 +18,8 @@ function App() {
           <StayConnected/>
           <TrainingVideo/>
           <WhoWillTrainYou/>
-          {/* <Footer/> */}
+          <Footer/>
+          <BelowFooter/>
        </div>
   );
 }
