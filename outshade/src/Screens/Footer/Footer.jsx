@@ -25,7 +25,7 @@ const Footer = () => {
            </div>
 
            <div className='grid grid-cols-3 col-span-3 w-full   text-white'>
-                 <div className=' w-1/2 flex justify-end  sm:items-center mx-2'>
+                 <div className=' w-1/2 flex justify-end  sm:items-center mx-10'>
                      <ul>
                        <li className='text-xl sm:text-2xl font-semibold my-6'>Quick Links</li>
                        <li className='pb-4'>Home</li>
@@ -53,7 +53,7 @@ const Footer = () => {
                      </ul>
                  </div>
            </div>
-           <div className='right-0 bottom-0 absolute mx-4 mb-4'>
+           <div className='right-0 bottom-0 absolute mx-4 mb-1'>
                 <BsFillArrowUpSquareFill size={40} style={{"color":"#007CC2"}}/>
            </div>
     </section>
